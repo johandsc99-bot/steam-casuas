@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="steam-casuas/Captura de pantalla 2026-10-23 133723.png" alt="Página de Bienvenida" width="85%"/>
+  <img src="assets/steam-casuas/Captura de pantalla 2026-10-23 133723.png" alt="Página de Bienvenida" width="85%"/>
 </div>
 
 <div align="center">
