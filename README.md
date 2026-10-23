@@ -1,4 +1,3 @@
-¡Claro que sí! Aquí tienes una estructura profesional en Markdown lista para usar en el archivo `README.md` de tu repositorio de GitHub. Está diseñada para resaltar las funcionalidades clave de tu aplicación de gestión de activos informáticos (**IT Assets / Inventario Vivo**), incorporando las capturas de pantalla que compartiste.
 
 ---
 
