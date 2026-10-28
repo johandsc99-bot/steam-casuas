@@ -1,4 +1,4 @@
-# 🖥️ IT Assets / Inventario Vivo
+# 🖥️ Steam Causas / Inventario Vivo
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ## 📖 Acerca del Proyecto
 
-**IT Assets (Inventario Vivo)** es una aplicación web diseñada para simplificar la gestión de activos tecnológicos en pequeñas y medianas organizaciones[cite: 1, 2]. Nació de la necesidad de dejar atrás las hojas de cálculo dispersas, centralizando el control del **hardware, software y redes** en un solo lugar[cite: 2]. 
+**Steam Causas (Inventario Vivo)** es una aplicación web diseñada para simplificar la gestión de activos tecnológicos en pequeñas y medianas organizaciones[cite: 1, 2]. Nació de la necesidad de dejar atrás las hojas de cálculo dispersas, centralizando el control del **hardware, software y redes** en un solo lugar[cite: 2]. 
 
 Con esta plataforma podrás saber en tiempo real **qué tienes, dónde está y qué necesita atención** de forma rápida y sin costos ocultos[cite: 2].
 
