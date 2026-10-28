@@ -41,7 +41,7 @@ Con esta plataforma podrás saber en tiempo real **qué tienes, dónde está y q
 ### 📊 Panel de Control (Dashboard)
 *Resumen ejecutivo con gráficos de estado, total de activos y alertas del sistema[cite: 1].*
 <div align="center">
-  <img src="assets/Captura de pantalla 2026-10-23 133915.png" alt="Dashboard IT Assets" width="85%"/>
+  <img src="Captura de pantalla 2026-10-23 133915.png" alt="Dashboard IT Assets" width="85%"/>
 </div>
 
 ### 📋 Listado de Activos
