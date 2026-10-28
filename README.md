@@ -35,7 +35,7 @@ Con esta plataforma podrás saber en tiempo real **qué tienes, dónde está y q
 ### 🌐 Página de Inicio / Landing Page
 *Vista inicial orientada al usuario con un resumen visual de los beneficios de la plataforma[cite: 2].*
 <div align="center">
-  <img src="assets/Captura-de-pantalla-2026-10-23 133723.png" alt="Landing Page Inventario Vivo" width="85%"/>
+  <img src="Captura de pantalla 2026-10-23 133723.png" alt="Landing Page Inventario Vivo" width="85%"/>
 </div>
 
 ### 📊 Panel de Control (Dashboard)
