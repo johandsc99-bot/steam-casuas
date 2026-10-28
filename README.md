@@ -47,7 +47,7 @@ Con esta plataforma podrás saber en tiempo real **qué tienes, dónde está y q
 ### 📋 Listado de Activos
 *Tabla detallada de equipos registrados con opciones de búsqueda, filtrado y acciones rápidas[cite: 3].*
 <div align="center">
-  <img src="assets/Captura de pantalla 2026-10-23 134222.png" alt="Inventario de Activos" width="85%"/>
+  <img src="Captura de pantalla 2026-10-23 134222.png" alt="Inventario de Activos" width="85%"/>
 </div>
 
 ### ➕ Registro de Nuevos Activos
