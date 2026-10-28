@@ -53,7 +53,7 @@ Con esta plataforma podrás saber en tiempo real **qué tienes, dónde está y q
 ### ➕ Registro de Nuevos Activos
 *Formulario modal intuitivo para dar de alta nuevo hardware, software o elementos de red con especificaciones técnicas completas[cite: 4].*
 <div align="center">
-  <img src="assets/Captura de pantalla 2026-10-23 134247.png" alt="Nuevo Activo Modal" width="85%"/>
+  <img src="Captura de pantalla 2026-10-23 134247.png" alt="Nuevo Activo Modal" width="85%"/>
 </div>
 
 ---
