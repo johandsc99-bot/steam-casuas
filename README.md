@@ -63,3 +63,4 @@ Con esta plataforma podrás saber en tiempo real **qué tienes, dónde está y q
 1. Clona el repositorio en tu máquina local:
    ```bash
    git clone [https://github.com/tu-usuario/it-assets.html](https://github.com/tu-usuario/it-assets.html)
+
