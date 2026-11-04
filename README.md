@@ -64,3 +64,6 @@ Con esta plataforma podrás saber en tiempo real **qué tienes, dónde está y q
    ```bash
    git clone [https://github.com/tu-usuario/it-assets.html](https://github.com/tu-usuario/it-assets.html)
 
+## Página
+
+[🚀 Abrir aplicación Inventario de Activos](https://johandsc99-bot.github.io/steam-causas/inventario.html)
