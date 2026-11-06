@@ -66,4 +66,4 @@ Con esta plataforma podrás saber en tiempo real **qué tienes, dónde está y q
 
 ## Página
 
-[🚀 Abrir aplicación Inventario de Activos](https://johandsc99-bot.github.io/steam-causas/Steam%20Casusas/inventario.html)
+[🚀 Abrir aplicación Inventario de Activos](https://steam-casuas.vercel.app/)
